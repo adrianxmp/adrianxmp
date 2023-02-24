@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am a Software Developer who loves challenges
+I am a Software Developer who loves coding
 
 * 🌍  I'm based in Calgary AB
 * ✉️  You can contact me at [adrianponce226@gmail.com](mailto:adrianponce226@gmail.com)
