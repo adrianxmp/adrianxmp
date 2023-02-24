@@ -10,7 +10,7 @@ I am a Software Developer who loves coding
 * ✉️  You can contact me at [adrianponce226@gmail.com](mailto:adrianponce226@gmail.com)
 * 🧠  I'm learning JavaScript, Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Splash
+* ⚡  I am Flash
 
 ### Skills
 
